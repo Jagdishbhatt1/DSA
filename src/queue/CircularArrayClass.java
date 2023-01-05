@@ -71,6 +71,7 @@ public class CircularArrayClass {
             queue.add(3);
             queue.add(4);
             queue.peek();
+            //remove
             queue.remove();
             queue.peek();
 
