@@ -3,7 +3,7 @@ package recursion.array;
 public class SortArrayCheck {
 
     public static void main(String args[]) {
-        int[] arr = {1, 2, 3,3, 4, 5, 6};
+        int[] arr = {1, 2, 3,3, 4, 5, 8,7};
         System.out.println(checkArraySort(arr, 0));
     }
 
